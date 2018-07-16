@@ -1,6 +1,6 @@
 import React from 'react'
 
-class Recipe extends React.Components {
+class Recipe extends React.Component{
   render() {
     return(
       <div>recipe</div>
